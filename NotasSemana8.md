@@ -38,6 +38,7 @@ public class Main {
         myDog.makeSound(); // Imprime "Woof"
     }
 }
+```
 
 ## Clases abstractas POO:
 Son clases base para otras clases llamadas "clases concretas". Consiste en ocultar lo complicado de nuestro código y servir funciones de alto nivel. Una clase abstracta es una clase común que posee atributos y métodos, tiene cómo minimo un método abstracto. 
