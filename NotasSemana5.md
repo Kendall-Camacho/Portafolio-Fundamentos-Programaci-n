@@ -2,7 +2,8 @@
 
 ## Pratica
 
-```import java.util.Scanner;
+```java
+import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Collections;
